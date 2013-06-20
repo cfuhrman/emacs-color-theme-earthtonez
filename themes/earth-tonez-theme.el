@@ -88,6 +88,7 @@
  '(rpm-spec-var-face ((((class color) (background dark)) (:foreground "wheat3"))))
  '(smerge-refined-change ((t (:weight bold :foreground "yellow" :background "darkblue"))))
  '(table-cell ((t (:inverse-video nil :foreground "yellow" :background "darkblue"))))
+ '(change-log-name ((t (:foreground "darkseagreen" :slant italic :weight bold))))
  '(which-func ((((class color) (min-colors 88) (background dark)) (:weight bold :foreground "lightyellow")))))
 
 (provide-theme 'earth-tonez)
