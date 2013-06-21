@@ -1,0 +1,27 @@
+#+TITLE: The Earth-Tonez Emacs Color Theme
+#+AUTHOR: Christopher M. Fuhrman
+#+EMAIL: cfuhrman@panix.com
+
+* The Earth-Tonez Emacs Color Theme
+
+** Overview
+
+  A pleasant, easy-to-read color theme for Emacsen.
+
+** Obligatory ScreenShot
+
+#+CAPTION: Earth-tonez color theme in action
+#+NAME:   fig:earthtonez-01
+[[./previews/emacs-earthtonez.png]]
+
+** Usage
+
+   1) Copy the file =earth-tonez-theme.el= to your =~/.emacs.d=
+      directory
+   2) Add the following lines to =~/.emacs.d/init.el=
+
+      #+BEGIN_SRC sh
+      (require 'color-theme-earth-tonez)
+      #+END_SRC
+   3) Either quit and restart Emacs or evaluate your
+      =~/.emacs.d/init.el=
