@@ -1,6 +1,6 @@
 #+TITLE: The Earth-Tonez Emacs Color Theme
 #+AUTHOR: Christopher M. Fuhrman
-#+EMAIL: cfuhrman@panix.com
+#+EMAIL: cfuhrman@pobox.com
 
 * The Earth-Tonez Emacs Color Theme
 
