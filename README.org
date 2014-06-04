@@ -20,7 +20,7 @@
       directory
    2) Add the following lines to =~/.emacs.d/init.el=
 
-      #+BEGIN_SRC sh
+      #+BEGIN_SRC emacs-lisp
       (require 'color-theme-earth-tonez)
       #+END_SRC
    3) Either quit and restart Emacs or evaluate your
